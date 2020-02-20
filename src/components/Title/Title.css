@@ -1,0 +1,9 @@
+.titleDiv {
+  border-radius: 30px;
+  box-shadow: inset -3px -3px 5px rgb(255, 255, 255), inset 3px 3px 10px rgba(0, 0, 0, 0.315);
+  padding: 20px;
+  text-align: center;
+  font-size: 3vh;
+  font-family: sans-serif;
+  color: rgb(36, 36, 36);
+}

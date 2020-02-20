@@ -1,0 +1,13 @@
+.CharCard{
+    width: auto;
+    height: 20vw;
+    padding: 20px;
+    margin: 1vw;
+    position: relative;
+    display: inline-block;
+    border-radius: 30px;
+    box-shadow: 3px 3px 10px rgb(255, 255, 255), -3px -3px 10px rgba(0, 0, 0, 0.315);
+}
+.CharCard:active{
+    box-shadow: inset -3px -3px 5px rgb(255, 255, 255), inset 3px 3px 10px rgba(0, 0, 0, 0.315);
+}
