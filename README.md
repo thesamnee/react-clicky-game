@@ -10,8 +10,8 @@ This application is deployed on Heroku via this link: https://simpsons-clicky-ga
 
 ### To Start Locally
 
-Clone this repo using **git clone https://github.com/thesamnee/react-clicky-game**
+Clone this repo using      **$ git clone https://github.com/thesamnee/react-clicky-game**
 
-Then install any dependencies **npm i**
+Then install any dependencies      **$ npm i
 
-Then finally, start the app on your local serer **npm start**
+Then finally, start the app on your local server      **$ npm start
